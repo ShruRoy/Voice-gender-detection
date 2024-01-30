@@ -5,7 +5,7 @@ Voicee-Gender-Detector
 Simple voice and gender detector modelusing machine learning :
 
 1.Clone this repository.
-2.Download the dataset from here
+2.Download the dataset from (here)[https://drive.google.com/file/d/1HRbWocxwClGy9Fj1MQeugpR4vOaL9ebO/view]
 3.Extract the dataset to your repository folder.
 4.Open the Model jupyter notebook
 5.Run this notebook.
